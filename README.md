@@ -1,1 +1,1 @@
-# secure-coding
+# Tiny Second-hand Shopping Platform
